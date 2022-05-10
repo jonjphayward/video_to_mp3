@@ -24,4 +24,4 @@ To deploy this project follow the steps below:
 1. Create two subfolders "input" and "output" inside the video to mp3 project directory
 
 Your folder should now look like this:
-![alt text](https://drive.google.com/file/d/1yFjAmycffYqiwHAF2oG4lno99mvGmdmk/preview)
+![https://drive.google.com/file/d/1yFjAmycffYqiwHAF2oG4lno99mvGmdmk/view?usp=sharing](https://drive.google.com/file/d/1yFjAmycffYqiwHAF2oG4lno99mvGmdmk/preview)
