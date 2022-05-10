@@ -22,5 +22,6 @@ To deploy this project follow the steps below:
 1. Ensure FFMPEG has been downloaded - you will need to open the downloaded zip and navigate into the \bin folder and copy the ffmpeg.exe into the video to mp3 project directory
 1. Run setup.bat to install the required extra python libraries
 1. Create two subfolders "input" and "output" inside the video to mp3 project directory
-1. Add a video file to the input folder
-1. run the start.bat file to convert the video to mp3
+
+Your folder should now look like this:
+![alt text](https://drive.google.com/file/d/1yFjAmycffYqiwHAF2oG4lno99mvGmdmk/preview)
