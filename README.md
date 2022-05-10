@@ -23,5 +23,6 @@ To deploy this project follow the steps below:
 1. Run setup.bat to install the required extra python libraries
 1. Create two subfolders "input" and "output" inside the video to mp3 project directory
 
-Your folder should now look like this:
-![image](https://drive.google.com/uc?export=view&id=1yFjAmycffYqiwHAF2oG4lno99mvGmdmk)
+Your folder should now look like [this](https://drive.google.com/file/d/1yFjAmycffYqiwHAF2oG4lno99mvGmdmk/view?usp=sharing)
+
+Once everything has been setup / installed you can run the start.bat file to convert the video.
